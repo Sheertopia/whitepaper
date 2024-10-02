@@ -18,6 +18,7 @@
 * [🎨 NFT Sharing & Economy](nft-sharing-and-economy.md)
 * [💲 NFT'S & EARNING](nfts-and-earning.md)
 * [🟠 Token/NFT Use Cases](token-nft-use-cases.md)
+* [$GRASS Litepaper](usdgrass-litepaper.md)
 * [📄 $AMBO/$GRASS Tokenomics](usdambo-usdgrass-tokenomics.md)
 * [🧠 Mental Health](mental-health.md)
 * [🌏 1% Donated to charity](1-donated-to-charity.md)
